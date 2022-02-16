@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Games
 uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 ---

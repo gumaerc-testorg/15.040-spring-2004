@@ -2,8 +2,13 @@
 content_type: resource
 description: Presentation of Lecture 1. Note that blank slides indicate separate sections
   of the lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-040-game-theory-for-managers-spring-2004/4b51d3a25b3f8c6b44a0808a59ea964e_lec1.pdf
+file: /media/courses/15-040-game-theory-for-managers-spring-2004/4b51d3a25b3f8c6b44a0808a59ea964e_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
 uid: 4b51d3a2-5b3f-8c6b-44a0-808a59ea964e
