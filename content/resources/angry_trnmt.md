@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Games
 parent_type: CourseSection
+parent_uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 resourcetype: Document
 title: angry_trnmt.pdf
 uid: 58d2d122-93d3-55c0-a968-f02ba150110f

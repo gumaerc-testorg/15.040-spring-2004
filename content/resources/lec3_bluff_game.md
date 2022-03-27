@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Games
 parent_type: CourseSection
+parent_uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 resourcetype: Document
 title: lec3_bluff_game.pdf
 uid: 1a1ff2fe-25d0-18a5-457a-6cb1adbde6a4

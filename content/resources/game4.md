@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Games
 parent_type: CourseSection
+parent_uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 resourcetype: Document
 title: game4.pdf
 uid: 18123002-f860-da2a-606b-6a674ce2c14a

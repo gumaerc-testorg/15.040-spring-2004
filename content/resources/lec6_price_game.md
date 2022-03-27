@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Games
 parent_type: CourseSection
+parent_uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 resourcetype: Document
 title: lec6_price_game.pdf
 uid: 194956a2-8f28-b4ba-2d8d-576db4d2b471

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fa4ef129-9411-a129-a53e-2b71a1f9107e
 resourcetype: Document
 title: hw3_realworld.pdf
 uid: 72647deb-ce7a-fe1d-5f94-ccff3d7bbe84

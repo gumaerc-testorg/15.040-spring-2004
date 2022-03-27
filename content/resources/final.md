@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d5e0fa4e-4e94-543e-eabf-715e13c4b974
 resourcetype: Document
 title: final.pdf
 uid: b2dbf93e-52ef-c404-277c-cd0254a6f132
