@@ -2,7 +2,7 @@
 content_type: resource
 description: Presentation of Lecture 9. Note that blank slides indicate separate sections
   of the lecture.
-file: /media/courses/15-040-game-theory-for-managers-spring-2004/eda0871f3b42a6c50b5d4a187dd57663_lec9.pdf
+file: /courses/15-040-game-theory-for-managers-spring-2004/eda0871f3b42a6c50b5d4a187dd57663_lec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lec9.pdf
 uid: eda0871f-3b42-a6c5-0b5d-4a187dd57663
 ---
+Presentation of Lecture 9. Note that blank slides indicate separate sections of the lecture.
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-_Introduction_ ([PDF]({{< baseurl >}}/resources/lec1))  
+_Introduction_ ({{% resource_link 4b51d3a2-5b3f-8c6b-44a0-808a59ea964e "PDF" %}})  
   
 Introduction to the course with examples.
 {{< tdclose >}}
@@ -38,7 +39,7 @@ Introduction to the course with examples.
 2
 {{< tdclose >}}
 {{< tdopen >}}
-_Rationality?_ ([PDF]({{< baseurl >}}/resources/lec2))  
+_Rationality?_ ({{% resource_link cb766210-7724-6fb6-b10c-f89bd9346ed3 "PDF" %}})  
   
 Irrational play by individuals and groups.  
   
@@ -51,7 +52,7 @@ Implications of (ir)rationality on behavior in games, with and without dominant 
 3
 {{< tdclose >}}
 {{< tdopen >}}
-_Equilibrium I_ ([PDF]({{< baseurl >}}/resources/lec3))  
+_Equilibrium I_ ({{% resource_link e9e64b2f-1a22-bcd0-29f4-a70ce065eb6f "PDF" %}})  
   
 Some prototypical games.  
   
@@ -68,7 +69,7 @@ Equilibrium arising from evolution.
 4
 {{< tdclose >}}
 {{< tdopen >}}
-_Equilibrium II_ ([PDF]({{< baseurl >}}/resources/lec4))  
+_Equilibrium II_ ({{% resource_link f5f9770b-f753-3b65-0be7-1ef021154857 "PDF" %}})  
   
 More on evolution.  
   
@@ -81,7 +82,7 @@ Games with sequential moves and subgame-perfect equilibria.
 5
 {{< tdclose >}}
 {{< tdopen >}}
-_Commitment_ ([PDF]({{< baseurl >}}/resources/lec5))  
+_Commitment_ ({{% resource_link ea6b6f05-311a-1e50-8e58-65dbac9b3043 "PDF" %}})  
   
 Strategic value of credible commitments.
 {{< tdclose >}}
@@ -92,7 +93,7 @@ Strategic value of credible commitments.
 6
 {{< tdclose >}}
 {{< tdopen >}}
-_Strategic Substitutes and Strategic Complements_ ([PDF]({{< baseurl >}}/resources/lec6))  
+_Strategic Substitutes and Strategic Complements_ ({{% resource_link c8105c75-9dfa-9d95-783d-c28be027ef8a "PDF" %}})  
   
 Moving first vs. moving last, when to capitalize on the element of surprise, and other applications of the ideas of strategic substitutes and strategic complements.
 {{< tdclose >}}
@@ -103,7 +104,7 @@ Moving first vs. moving last, when to capitalize on the element of surprise, and
 7
 {{< tdclose >}}
 {{< tdopen >}}
-_Application: Entering a Market_ ([PDF]({{< baseurl >}}/resources/lec7))  
+_Application: Entering a Market_ ({{% resource_link 3bdac89f-e734-57b5-b9dd-d0c26a8eec6d "PDF" %}})  
   
 Entry as commitment, and establishing barriers to entry.  
   
@@ -116,7 +117,7 @@ Strategic exercise of real options.
 8
 {{< tdclose >}}
 {{< tdopen >}}
-_Application: Brinksmanship_ ([PDF]({{< baseurl >}}/resources/lec8))  
+_Application: Brinksmanship_ ({{% resource_link 66546126-974e-9b22-20a2-cf6c6eef9b27 "PDF" %}})  
   
 Strategic escalation of threats.  
   
@@ -129,7 +130,7 @@ Wars of attrition.
 9
 {{< tdclose >}}
 {{< tdopen >}}
-_Auctions_ ([PDF]({{< baseurl >}}/resources/lec9))  
+_Auctions_ ({{% resource_link eda0871f-3b42-a6c5-0b5d-4a187dd57663 "PDF" %}})  
   
 Variety of real-world phenomena that can be interpreted as auctions.  
   
@@ -142,7 +143,7 @@ Auction theory: Winner's Curse given common values and Revenue Equivalence given
 10
 {{< tdclose >}}
 {{< tdopen >}}
-_Uncertainty and Information_ ([PDF]({{< baseurl >}}/resources/lec10))  
+_Uncertainty and Information_ ({{% resource_link e355cd68-9165-d8f8-3790-c78c17ed62cc "PDF" %}})  
   
 Strategic manipulation of risk.  
   
@@ -157,7 +158,7 @@ Agency and moral hazard.
 11
 {{< tdclose >}}
 {{< tdopen >}}
-_Reputation and Strategic Irrationality_ ([PDF]({{< baseurl >}}/resources/lec11))  
+_Reputation and Strategic Irrationality_ ({{% resource_link e9f08f14-db86-4d33-b08c-0117d6d6f883 "PDF" %}})  
   
 Making threats and promises credible through reputation in repeated games.  
   
