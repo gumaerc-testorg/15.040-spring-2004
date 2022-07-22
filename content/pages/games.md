@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Students will participate in two types of interactive exercises, in-class
+  games and online games.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Games
 uid: 2e68666a-f17d-7dfd-7a65-5c84273f6ae3
 ---
@@ -62,10 +66,10 @@ Introduction
 Rationality?
 {{< tdclose >}}
 {{< tdopen >}}
-Prepare Worksheet for Urn Game ([PDF]({{< baseurl >}}/resources/lec2_urn_game))
+Prepare Worksheet for Urn Game ({{% resource_link 7e88ce1c-6bff-3e3d-c037-e1c36bd5b58a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Play Online Game #1: Beauty Contest ([PDF]({{< baseurl >}}/resources/game1)) and notify TA of the members of your team
+Play Online Game #1: Beauty Contest ({{% resource_link 8eea8f7d-3e36-9101-8f97-523a69138db6 "PDF" %}}) and notify TA of the members of your team
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,10 +81,10 @@ Play Online Game #1: Beauty Contest ([PDF]({{< baseurl >}}/resources/game1)) and
 Equilibrium I
 {{< tdclose >}}
 {{< tdopen >}}
-Prepare Worksheet for Bluffing Game ([PDF]({{< baseurl >}}/resources/lec3_bluff_game))
+Prepare Worksheet for Bluffing Game ({{% resource_link 1a1ff2fe-25d0-18a5-457a-6cb1adbde6a4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Play Online Game #4: Monitoring Game ([PDF]({{< baseurl >}}/resources/game4))
+Play Online Game #4: Monitoring Game ({{% resource_link 18123002-f860-da2a-606b-6a674ce2c14a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +99,7 @@ Equilibrium II
  
 {{< tdclose >}}
 {{< tdopen >}}
-Play Online Game #3: Entrant Game ([PDF]({{< baseurl >}}/resources/game3))
+Play Online Game #3: Entrant Game ({{% resource_link 3520e476-1a1b-92c2-761e-da8226ff5770 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +114,7 @@ Commitment
  
 {{< tdclose >}}
 {{< tdopen >}}
-Play Online Game #6: New Market Game ([PDF]({{< baseurl >}}/resources/game6))
+Play Online Game #6: New Market Game ({{% resource_link bdc01264-4226-69e8-8b93-924583e0a46b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +126,7 @@ Play Online Game #6: New Market Game ([PDF]({{< baseurl >}}/resources/game6))
 Strategic Substitutes and Strategic Complements
 {{< tdclose >}}
 {{< tdopen >}}
-Prepare Worksheet for Dynamic Pricing Game ([PDF]({{< baseurl >}}/resources/lec6_price_game))
+Prepare Worksheet for Dynamic Pricing Game ({{% resource_link 194956a2-8f28-b4ba-2d8d-576db4d2b471 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -152,15 +156,15 @@ Application: Entering a Market
 Application: Brinksmanship
 {{< tdclose >}}
 {{< tdopen >}}
-Prepare Worksheet for Angry Negotiation Game ([PDF]({{< baseurl >}}/resources/lec8_angry_game))  
+Prepare Worksheet for Angry Negotiation Game ({{% resource_link ee42a0f3-99bc-0e93-8404-fb7e0e0618e4 "PDF" %}})  
   
-Optional Follow-up: Computerized Angry Negotiation Tournament ([PDF]({{< baseurl >}}/resources/angry_trnmt))  
+Optional Follow-up: Computerized Angry Negotiation Tournament ({{% resource_link 58d2d122-93d3-55c0-a968-f02ba150110f "PDF" %}})  
   
-Students fill out this spreadsheet to play ([XLS]({{< baseurl >}}/resources/angry_blank))  
+Students fill out this spreadsheet to play ({{% resource_link 3288a061-4807-b039-086c-385c14a04a0a "XLS" %}})  
   
-Use this spreadsheet to experiment with different strategies – how payoffs change depending on what strategy you and your opponent choose ([XLS]({{< baseurl >}}/resources/angry_payoff-1))  
+Use this spreadsheet to experiment with different strategies – how payoffs change depending on what strategy you and your opponent choose ({{% resource_link b6553498-c660-21b4-dbb7-4cb70d36aa3f "XLS" %}})  
   
-More detail on how payoffs are computed  ([PDF]({{< baseurl >}}/resources/angry_payoff))
+More detail on how payoffs are computed  ({{% resource_link 880d1efe-7611-a0b1-74cc-8bdf80141c9d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -178,7 +182,7 @@ Auctions
  
 {{< tdclose >}}
 {{< tdopen >}}
-Play Online Game #8: Takeover Bidding ([PDF]({{< baseurl >}}/resources/game8))
+Play Online Game #8: Takeover Bidding ({{% resource_link 138e3008-030b-2cf9-2634-d0fa2acca63d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Uncertainty and Information
  
 {{< tdclose >}}
 {{< tdopen >}}
-Play Online Game #7: Incentives Game ([PDF]({{< baseurl >}}/resources/game7))
+Play Online Game #7: Incentives Game ({{% resource_link 7d37f5d6-262e-e538-6215-1e3ca2e21183 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
