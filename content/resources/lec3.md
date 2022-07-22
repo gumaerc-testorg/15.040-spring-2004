@@ -6,6 +6,7 @@ file: /courses/15-040-game-theory-for-managers-spring-2004/e9e64b2f1a22bcd029f4a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec3.pdf
 uid: e9e64b2f-1a22-bcd0-29f4-a70ce065eb6f
 ---
 Presentation of Lecture 3. Note that blank slides indicate separate sections of the lecture.
-
