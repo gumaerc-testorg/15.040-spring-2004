@@ -41,11 +41,12 @@
     "website": "15-040-game-theory-for-managers-spring-2004"
   },
   "learning_resource_types": [
-    "Exams",
     "Lecture Notes",
     "Problem Sets",
-    "Written Assignments"
+    "Written Assignments",
+    "Exams with Solutions"
   ],
-  "site_uid": "c068ae1f-6f96-4c12-8fd3-2d97fe1b1f8c",
+  "site_uid": "922957a1-377c-415b-8837-5e6b081fb92e",
+  "site_short_id": "15.040-spring-2004",
   "title": "Course Metadata"
 }
