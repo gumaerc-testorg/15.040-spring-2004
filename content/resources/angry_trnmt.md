@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for the Angry Negotiation Game.
 file: /courses/15-040-game-theory-for-managers-spring-2004/58d2d12293d355c0a968f02ba150110f_angry_trnmt.pdf
+file_size: 152548
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Preparation worksheet for in-class game.
 file: /courses/15-040-game-theory-for-managers-spring-2004/194956a28f28b4ba2d8d576db4d2b471_lec6_price_game.pdf
+file_size: 109395
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

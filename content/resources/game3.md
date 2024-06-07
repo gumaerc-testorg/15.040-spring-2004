@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of Online Game 3.
 file: /courses/15-040-game-theory-for-managers-spring-2004/3520e4761a1b92c2761eda8226ff5770_game3.pdf
+file_size: 59693
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

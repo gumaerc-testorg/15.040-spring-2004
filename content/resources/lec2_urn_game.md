@@ -2,6 +2,7 @@
 content_type: resource
 description: Preparation worksheet for in-class game.
 file: /courses/15-040-game-theory-for-managers-spring-2004/7e88ce1c6bff3e3dc037e1c36bd5b58a_lec2_urn_game.pdf
+file_size: 21492
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

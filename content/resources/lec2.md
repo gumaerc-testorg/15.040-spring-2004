@@ -3,6 +3,7 @@ content_type: resource
 description: Presentation of Lecture 2. Note that blank slides indicate separate sections
   of the lecture.
 file: /courses/15-040-game-theory-for-managers-spring-2004/cb76621077246fb6b10cf89bd9346ed3_lec2.pdf
+file_size: 66797
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
