@@ -2,6 +2,7 @@
 content_type: resource
 description: Preparation worksheet for in-class game.
 file: /courses/15-040-game-theory-for-managers-spring-2004/1a1ff2fe25d018a5457a6cb1adbde6a4_lec3_bluff_game.pdf
+file_size: 23116
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

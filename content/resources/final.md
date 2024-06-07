@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice exam problems.
 file: /courses/15-040-game-theory-for-managers-spring-2004/b2dbf93e52efc404277ccd0254a6f132_final.pdf
+file_size: 86031
 file_type: application/pdf
 learning_resource_types:
 - Exams
