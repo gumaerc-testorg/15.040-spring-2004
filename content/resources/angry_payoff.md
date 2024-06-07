@@ -2,6 +2,7 @@
 content_type: resource
 description: More detail on how payoffs are computed in the Angry Negotiation Game.
 file: /courses/15-040-game-theory-for-managers-spring-2004/880d1efe7611a0b174cc8bdf80141c9d_angry_payoff.pdf
+file_size: 15426
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

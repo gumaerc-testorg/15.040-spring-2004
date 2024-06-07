@@ -2,6 +2,7 @@
 content_type: resource
 description: Preparation worksheet for in-class game.
 file: /courses/15-040-game-theory-for-managers-spring-2004/ee42a0f399bc0e938404fb7e0e0618e4_lec8_angry_game.pdf
+file_size: 99496
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,7 @@ description: Use this spreadsheet to experiment with different strategies in the
   Negotiation Game ? how payoffs change depending on what strategy you and your opponent
   choose.
 file: /courses/15-040-game-theory-for-managers-spring-2004/b6553498c66021b4dbb74cb70d36aa3f_angry_payoff.xls
+file_size: 93696
 file_type: application/msword
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
