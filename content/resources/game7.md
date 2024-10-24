@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Online Game 7.
-file: /courses/15-040-game-theory-for-managers-spring-2004/7d37f5d6262ee53862151e3ca2e21183_game7.pdf
+file: /ol-ocw-studio-app/courses/15-040-game-theory-for-managers-spring-2004/7d37f5d6262ee53862151e3ca2e21183_game7.pdf
 file_size: 56263
 file_type: application/pdf
 learning_resource_types: []

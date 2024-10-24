@@ -2,7 +2,7 @@
 content_type: resource
 description: Presentation of Lecture 5. Note that blank slides indicate separate sections
   of the lecture.
-file: /courses/15-040-game-theory-for-managers-spring-2004/ea6b6f05311a1e508e5865dbac9b3043_lec5.pdf
+file: /ol-ocw-studio-app/courses/15-040-game-theory-for-managers-spring-2004/ea6b6f05311a1e508e5865dbac9b3043_lec5.pdf
 file_size: 138826
 file_type: application/pdf
 learning_resource_types:
