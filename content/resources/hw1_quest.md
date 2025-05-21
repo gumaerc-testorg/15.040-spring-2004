@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/15-040-game-theory-for-managers-spring-2004/a1d0ed1c6e500be6919d0e0ff00e8026_hw1_quest.pdf
+file: /courses/15-040-game-theory-for-managers-spring-2004/a1d0ed1c6e500be6919d0e0ff00e8026_hw1_quest.pdf
 file_size: 51305
 file_type: application/pdf
 learning_resource_types:
