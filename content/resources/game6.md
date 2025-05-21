@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Online Game 6.
-file: /ol-ocw-studio-app/courses/15-040-game-theory-for-managers-spring-2004/bdc01264422669e88b93924583e0a46b_game6.pdf
+file: /courses/15-040-game-theory-for-managers-spring-2004/bdc01264422669e88b93924583e0a46b_game6.pdf
 file_size: 54997
 file_type: application/pdf
 learning_resource_types: []
