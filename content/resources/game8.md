@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of Online Game 8.
-file: /courses/15-040-game-theory-for-managers-spring-2004/138e3008030b2cf92634d0fa2acca63d_game8.pdf
+file: /ol-ocw-studio-app/courses/15-040-game-theory-for-managers-spring-2004/138e3008030b2cf92634d0fa2acca63d_game8.pdf
 file_size: 56723
 file_type: application/pdf
 learning_resource_types: []
