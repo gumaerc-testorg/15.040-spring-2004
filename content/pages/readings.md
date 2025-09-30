@@ -70,9 +70,9 @@ D&S. Chapter 2, and 4 - 4.6.
 Equilibrium I
 {{< tdclose >}}
 {{< tdopen >}}
-Hobson, Katherine. "The Malls Get Decked: Retailers Minding Too Many Stores." _The Street.com_, 22 November 2000. Available at the Web site of [The Street.com](http://www.thestreet.com/).  
+Hobson, Katherine. "The Malls Get Decked: Retailers Minding Too Many Stores." _The Street.com_, 22 November 2000. Available at the Web site of {{% resource_link "a95b53f0-48ad-4dfb-a64b-b870b090c945" "The Street.com" %}}.  
   
-(\*) Peterson, Ivars. "Mating Games and Lizards." [Mathematical Association of America](http://www.maa.org/), 15 April 1996, (accessed July 12, 2004).  
+(\*) Peterson, Ivars. "Mating Games and Lizards." {{% resource_link "580a1190-edd9-422b-9523-4d277d9b1b59" "Mathematical Association of America" %}}, 15 April 1996, (accessed July 12, 2004).  
   
 Glen, Orie. "Koufax Kicks." _SportsJones Magazine,_ 21 July 1998.  
   
